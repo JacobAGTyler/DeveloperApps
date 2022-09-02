@@ -2,7 +2,8 @@
 
 ## Generic Productivity
 * Office
-* Visio
+* [1Password](https://1password.com/)
+* [Typora](https://typora.io/)
 * [Agent Ransack](https://www.mythicsoft.com/agentransack/download/)
 * Teams
 * [Greenshot](https://getgreenshot.org/)
